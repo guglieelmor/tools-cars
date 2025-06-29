@@ -162,6 +162,7 @@ Na tela de favoritos, além de listar todos os veículo favoritados, ao clicar o
 
 ## [Estrutura do Projeto](#aestrutura)
 
+```txt
 /
 ├── app/
 │   ├── java/
