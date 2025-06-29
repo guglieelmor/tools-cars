@@ -241,7 +241,7 @@ A seguir a estrutura dos arquivos e do projeto inteiro.
 - **item_favoritos.xml**  
   Layout individual para itens de favoritos. 
 
-## Vídeo(#video)
+## [Video](#video)
 
 [Vídeo](https://choosealicense.com/licenses/mit/)
 
