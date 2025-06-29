@@ -14,3 +14,14 @@ O aplicativo Tools Cars visa oferecer uma solução prática e acessível para c
 	- [4. Endpoint Master Detail](#endpoint-master)
   - [Vídeo](#video) 
   - [Autor](#autor) 
+
+## Telas 
+
+#### [1. Tela Inicial](#tela-inicial)
+
+Na tela inicial do aplicativo, há uma barra de navegação inferior com duas opções: Início e Favoritos. A navegação entre as telas é feita utilizando Fragments, proporcionando uma experiência fluida ao usuário.
+
+Na parte superior, há uma barra de pesquisa com ícone de lupa, onde o usuário pode selecionar a marca do carro desejada e clicar para continuar.
+
+
+![1](/img/1.png)
