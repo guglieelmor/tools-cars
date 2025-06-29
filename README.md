@@ -125,7 +125,7 @@ Response:
 ``` 
 
 
-## Telas 
+## Telas(#telas)
 
 #### [1. Tela Marcas/Inicial](#tela-marcas)
 
@@ -162,6 +162,8 @@ Na tela de favoritos, além de listar todos os veículo favoritados, ao clicar o
 
 ## [Estrutura do Projeto](#aestrutura)
 
+A seguir a estrutura dos arquivos e do projeto inteiro.
+
 ```txt
 /
 ├── app/
@@ -186,10 +188,9 @@ Na tela de favoritos, além de listar todos os veículo favoritados, ao clicar o
 │           └── item_favoritos.xml
 ├── build.gradle
 └── README.md
+```
 
----
-
-## Explicação das Pastas e Arquivos
+## [API](#api)
 
 ### app/java/com.example.tools_cars/
 
