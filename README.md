@@ -125,7 +125,7 @@ Response:
 ``` 
 
 
-## Telas(#telas)
+## [Telas](#telas)
 
 #### [1. Tela Marcas/Inicial](#tela-marcas)
 
@@ -243,7 +243,7 @@ A seguir a estrutura dos arquivos e do projeto inteiro.
 
 ## [Video](#video)
 
-[Vídeo](https://choosealicense.com/licenses/mit/)
+[https://youtu.be/geKRLfARN0Q](https://youtu.be/geKRLfARN0Q)
 
 
 ## [Autor](#autor)
