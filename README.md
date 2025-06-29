@@ -239,11 +239,9 @@ A seguir a estrutura dos arquivos e do projeto inteiro.
   Layout individual para itens de lista (marcas, modelos, anos).
 
 - **item_favoritos.xml**  
-  Layout individual para itens de favoritos.
+  Layout individual para itens de favoritos. 
 
----
-
-## Vídeo 
+## Vídeo(#video)
 
 [Vídeo](https://choosealicense.com/licenses/mit/)
 
